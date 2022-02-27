@@ -1,0 +1,18 @@
+# Bloop and Metals
+.bloop
+.bsp
+
+# Metals
+project/metals.sbt
+.metals
+
+# sbt
+project/project/
+project/target/
+target/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
