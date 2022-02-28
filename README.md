@@ -4,7 +4,7 @@ This is a companion repository for [Functional Fizz Buzz with Scala](https://rea
 
 ## Requirements
 
-- sbt
+- [sbt](https://www.scala-sbt.org/)
 
 ## Running
 
